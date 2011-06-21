@@ -1,0 +1,20 @@
+Functions to write and read to a message queue sys V IPC
+functions implemented: ftok, msgget and msgsnd)
+
+
+INSTALL
+=======
+node-waf build
+
+USAGE
+=====
+check the example and man svipc
+
+TODO
+====
+
+* pack it in a class
+* implement the constants commented in the example
+
+
+
